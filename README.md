@@ -19,6 +19,7 @@ This project is a web application that provides weather reports and a conversati
   OPENAI_API_KEY=your api key
 * Install the following dependencies with: pip install fastapi uvicorn pydantic requests python-dotenv langchain-openai
 * Run the FastAPI server with: uvicorn main:app --reload
+
 **Front End**
   * Navigate to the frontend/weather-app directory
   * Install npm
