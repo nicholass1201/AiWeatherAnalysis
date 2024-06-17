@@ -62,11 +62,3 @@
   <li>Enter the name of a city and click on the button</li>
   <li>The statistical weather data of the city will be shown alongside a response from the GPT-3.5 model, with the integration facilitated by LangChain for prompt engineering and interaction.</li>
 </ul>
-
-<h2>Contributing</h2>
-
-<p>Contributions are welcome! Please open an issue or submit a pull request for any changes or improvements.</p>
-
-<h2>License</h2>
-
-<p>This project is licensed under the MIT License. See the <a href="LICENSE">LICENSE</a> file for details.</p>
