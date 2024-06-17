@@ -1,0 +1,3 @@
+node_modules/
+frontend/weather-app/build/
+.DS_Store
