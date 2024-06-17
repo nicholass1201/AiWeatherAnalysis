@@ -16,7 +16,7 @@
 </ul>
 
 <h2>Installation</h2>
-
+Once you download the project folder, install the frontend separtely by clicking on the submodule and replace the frontend folder.
 <h3>Back End</h3>
 
 <ul>
