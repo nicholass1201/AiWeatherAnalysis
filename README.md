@@ -15,8 +15,11 @@
   <li><strong>Language Model Integration</strong>: LangChain</li>
 </ul>
 
+<h2>Screenshot</h2>
+<img src="screenshot.png" alt="Screenshot of AiWeatherAnalysis application">
+
 <h2>Installation</h2>
-Once you download the project folder, install the frontend separtely by clicking on the submodule and replace the frontend folder.
+Once you download the project folder, install the frontend separately by clicking on the submodule and replace the frontend folder.
 <h3>Back End</h3>
 
 <ul>
